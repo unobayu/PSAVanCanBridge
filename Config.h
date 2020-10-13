@@ -6,7 +6,7 @@
 // if defined messages are sent on bluetooth connection, otherwise standard serial is used
 #define USE_BLUETOOTH_SERIAL
 //if defined activated bluetooth communication to control the display
-#define BT_REMOTE
+//#define BT_REMOTE
 // if true then the ignition signal is used from the VAN bus otherwise the ignition is considered as always on
 constexpr bool USE_IGNITION_SIGNAL_FROM_VAN_BUS = true;
 
